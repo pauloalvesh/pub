@@ -7,3 +7,7 @@ body{background-color:var(--cor-de-fundo);
 }
 h1{color:var(--titulo-principal);
 }
+*{
+    margin: 0;
+    padding: 6px; ;
+}
