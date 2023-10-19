@@ -1,6 +1,6 @@
 :root{--titulo-principal:#0e6950;
     --cor-do-texto:#8ad923;
-    --coro-texto:#fafcde;
+    --cor-texto:#fafcde;
     --cor-do-botao:#cc7564;
 }
 body{background-color:var(--cor-de-fundo);
@@ -9,5 +9,13 @@ h1{color:var(--titulo-principal);
 }
 *{
     margin: 0;
-    padding: 6px; ;
+    padding: 0px; 
+}
+.principal{
+    background-image:url(download.jpeg);
+    background-repeat: no-repeat;
+    box-sizing: contain;
+}
+.container{
+    height: 100vh;
 }
